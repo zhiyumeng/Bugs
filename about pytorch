@@ -1,0 +1,1 @@
+1. embeding的index size一定要和target的index size匹配，否则会出现cuda asserted error。
